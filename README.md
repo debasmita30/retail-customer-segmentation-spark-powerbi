@@ -1,5 +1,7 @@
 # 🛍️ Retail Customer Segmentation using Apache Spark (Scala) and Power BI
 
+[📊 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDdmZDg3NjEtZDBjYS00Mjk5LWFkNWMtZWZmYTI2MThiMjdhIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+
 This project performs **customer segmentation for a retail dataset** using **Apache Spark (Scala)** and **K-Means clustering**, followed by visualization in **Power BI**.  
 It helps identify **high-value customers**, analyze **buying behavior**, and design **data-driven marketing strategies**.
 
